@@ -6814,6 +6814,8 @@ dependencies = [
  "tinymist-analysis",
  "tinymist-project",
  "tinymist-std",
+ "tinymist-vfs",
+ "tinymist-world",
  "typst",
 ]
 
